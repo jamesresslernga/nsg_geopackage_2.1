@@ -60,7 +60,7 @@ image:/media/Scale_Denominator.png[image,width=619,height=288]
 The above discussion of scale was confined entirely to the pixel size _on the device,_ to the pixel’s extent on the _UPS projection plane,_ and to the ratio between these. No mention of latitude was necessary. To relate the pixel size to a length _on the Earth_ (i.e the WGS 84 ellipsoid model of the Earth), where latitude is a dependency, see Table (TBD) or use the fact that Table 4 of *NGA.SIG.0014_1.0_PROJRAS* is relatively correct between latitudes. Here are some examples:
 
 ::
-*Example 2.  At zoom level _n_ = 5, the ratio, meters(map)/pixel is 4013.857263245084 as explained in Example 1.  At the Pole, the ratio, meters(Earth)/pixil, is this number adjusted upwards by division by the UPS scale number0.994 (exact).  The result is 4038.085777912559*
+*Example 2.  At zoom level _n_ = 5, the ratio, meters(map)/pixel is 4013.857263245084 as explained in Example 1.  At the Pole, the ratio, meters(Earth)/pixil, is this number adjusted upwards by division by the UPS scale number 0.994 (exact).  The result is 4038.085777912559*
 
 ::
 *Example 3. At zoom level _n_ = 5, the ratio, meters(Earth)/pixel, for latitude 60°N is 3767.81. This number can be computed as the value at the Pole (see Example 2) times the ratio:*
