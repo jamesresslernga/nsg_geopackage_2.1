@@ -8,8 +8,7 @@ NGA.STND.0051_2.1_GEOPKG
 
 
 
-image:[NGA Seal](/media/image1.jpeg)
-
+image:/media/image1.jpeg
 
 *NGA STANDARDIZATION DOCUMENT*
 
