@@ -8,7 +8,7 @@ NGA.STND.0051_2.1_GEOPKG
 
 
 
-![NGA Seal](https://github.com/royrathbun/nsg_geopkg/blob/master/media/image1.jpeg)
+![NGA Seal](/media/image1.jpeg)
 
 ___________________________________________________________________
 
