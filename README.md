@@ -50,6 +50,7 @@ ___________________________________________________________________
   8.3. Bounding Boxes 34  
 9. Features 35  
   9.1. GeoPackage Extensions 35  
+
 Annex A GeoPackage to DoD DSE MDR CRS Dictionary Crosswalk 36
 
 Annex B Metadata Reference Example 37
